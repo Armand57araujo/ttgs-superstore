@@ -11,7 +11,7 @@
 ## Description 
 In this project I created a command line application using node.js, and SQL, that allows users to input and lookup products, categories, and tags for a store.  
 
-[Walkthrough Video](https://watch.screencastify.com/v/dBfQ9cFhkzumlUv4SjJU)
+[Walkthrough Video](https://watch.screencastify.com/v/wmWotT2vPnmxnvKdfyqL)
 
 
 ## Code Example 
